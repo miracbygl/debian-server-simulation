@@ -1,4 +1,4 @@
-# 🖥️ Debian Sunucu Altyapı Simülasyonu
+# 🖥️ Debian Sunucu Simülasyonu
 
 **Bursa Teknik Üniversitesi - Sunucu İşletim Sistemi Projesi**
 
